@@ -1,0 +1,18 @@
+#body {
+    background-color: whitesmoke;
+}
+
+.image,
+.banana {
+    height: 500px;
+}
+
+a {
+    color: mediumblue;
+}
+
+.head {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
